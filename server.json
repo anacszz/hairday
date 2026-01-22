@@ -1,3 +1,9 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": "18fe",
+      "name": "mexerica",
+      "when": "2026-01-22T22:00:00.000Z"
+    }
+  ]
 }
